@@ -15,10 +15,10 @@ Como utiliza-la: Insira o montante salárial e a ferramenta irá sugerir a quant
 tbl_perfis: onde se encontram todas as possibilidades de investimento para cada perfil investidor e as porcentagens de cada um.
 
 ## ℹ️Observações
--A planilha não considera impostos (de quaisquer países), inflação vigente ou taxas administrativas.
+- A planilha não considera impostos (de quaisquer países), inflação vigente ou taxas administrativas.
 
--Os resultados são estimativas e não devem ser levadas como base para investimentos reais.
+- Os resultados são estimativas e não devem ser levadas como base para investimentos reais.
 
--Calculadora de Investimentos criada ao acompanhar as videoaulas do Tutor Felipe Aguiar, que ministra o bootcamp da DIO em parceria com o grupo santander.
+- Calculadora de Investimentos criada ao acompanhar as videoaulas do Tutor Felipe Aguiar, que ministra o bootcamp da DIO em parceria com o grupo santander.
 
--Este Simulador de Investimentos não tem como objetivo lucro, mas sim me habituar a formulas, funcionalidades e ferramentas presentes no EXCEL.
+- Este Simulador de Investimentos não tem como objetivo lucro, mas sim me habituar a formulas, funcionalidades e ferramentas presentes no EXCEL.
